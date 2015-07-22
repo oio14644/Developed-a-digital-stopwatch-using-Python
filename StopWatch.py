@@ -1,5 +1,5 @@
-This program focuses on combining text drawing in the canvas with timers to build a simple digital stopwatch 
-that keeps track of the time in tenths of a second. The stopwatch contain "Start", "Stop" and "Reset" buttons. 
+This program builds a simple digital stopwatch. 
+The stopwatch contain "Start", "Stop" and "Reset" buttons. 
 
 http://www.codeskulptor.org/#user40_9rEY2ZgDH5_0.py
  
