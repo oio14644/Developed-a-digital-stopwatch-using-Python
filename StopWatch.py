@@ -1,7 +1,7 @@
 This program builds a simple digital stopwatch. 
 The stopwatch contain "Start", "Stop" and "Reset" buttons. 
 
-http://www.codeskulptor.org/#user40_9rEY2ZgDH5_0.py
+http://www.codeskulptor.org/#user40_9rEY2ZgDH5_1.py
  
 import simplegui
 
