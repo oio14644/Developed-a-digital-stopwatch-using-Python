@@ -10,7 +10,6 @@ nCounter = 0
 sTimer, sScore = "", ""
 bRunning = False
 
-
 # define helper function format that converts time
 # in tenths of seconds into formatted string Hr:Min:Sec (A:BC:DE.F)
 def format(t):
